@@ -1,5 +1,7 @@
 # PacmanSimulator
 To solve Pacman Simulator basic problem:
+Solution File Run analysis and test cases in Ideone:
+https://ideone.com/rOnjVg
 
 Code problem details:
 
