@@ -67,23 +67,4 @@ MOVE
 REPORT
 
 Output: 3,3,NORTH
-Deliverables:
-
-Spend as little or as much time as you like on the challenge.
-The code you produce can be in any language
-It is not required to provide any graphical output showing the movement of Pacman.
-The output of the efforts must be committed back into a Public Repo in Github and the URL shared back for review.
-Proving your code works via unit testing is highly encouraged
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
